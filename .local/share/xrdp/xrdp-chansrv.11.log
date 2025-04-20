@@ -1,0 +1,9 @@
+[20210322-12:14:51] [CORE ] main: app started pid 1921(0x00000781)
+[20210322-12:14:51] [INFO ] main: DISPLAY env var set to :11.0
+[20210322-12:14:51] [INFO ] main: using DISPLAY 11
+[20210322-12:14:51] [INFO ] channel_thread_loop: thread start
+[20210322-12:14:52] [INFO ] Socket 12: AF_UNIX connection received
+[20210322-12:14:52] [INFO ] send_init_response_message:
+[20210322-12:18:23] [ERROR] clipboard_event_selection_request: unknown target GTK_TEXT_BUFFER_CONTENTS
+[20210322-12:18:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20210322-12:19:42] [INFO ] term_signal_handler: got signal 15
